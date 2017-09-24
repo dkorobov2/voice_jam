@@ -1,0 +1,47 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/korobov2/AndroidStudioProjects/VoiceJam/app/src/main/jni/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\korobov2\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\korobov2\\AndroidStudioProjects\\VoiceJam\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"PitchDetector-Release-arm64-v8a" :
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "PitchDetector",
+			"buildCommand" : "C:\\Users\\korobov2\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\korobov2\\AndroidStudioProjects\\VoiceJam\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target PitchDetector",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target aarch64-none-linux-android -gcc-toolchain C:/Users/korobov2/AppData/Local/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/korobov2/AppData/Local/Android/sdk/ndk-bundle/platforms/android-21/arch-arm64  -DPitchDetector_EXPORTS -IC:\\Users\\korobov2\\AndroidStudioProjects\\VoiceJam\\app\\src\\main\\jni\\src\\main\\jni -IC:\\devel\\SuperpoweredSDK\\Superpowered -isystem C:\\Users\\korobov2\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\korobov2\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\arm64-v8a\\include -isystem C:\\Users\\korobov2\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -fsigned-char -IC:/devel/SuperpoweredSDK/Superpowered -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/korobov2/AndroidStudioProjects/VoiceJam/app/src/main/jni/PitchDetector.cpp",
+					"workingDirectory" : "C:/Users/korobov2/AndroidStudioProjects/VoiceJam/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  -target aarch64-none-linux-android -gcc-toolchain C:/Users/korobov2/AppData/Local/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/korobov2/AppData/Local/Android/sdk/ndk-bundle/platforms/android-21/arch-arm64  -DPitchDetector_EXPORTS -IC:\\Users\\korobov2\\AndroidStudioProjects\\VoiceJam\\app\\src\\main\\jni\\src\\main\\jni -IC:\\devel\\SuperpoweredSDK\\Superpowered -isystem C:\\Users\\korobov2\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\korobov2\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\arm64-v8a\\include -isystem C:\\Users\\korobov2\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -fsigned-char -IC:/devel/SuperpoweredSDK/Superpowered -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/devel/SuperpoweredSDK/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp",
+					"workingDirectory" : "C:/Users/korobov2/AndroidStudioProjects/VoiceJam/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "C:/Users/korobov2/AndroidStudioProjects/VoiceJam/app/build/intermediates/cmake/release/obj/arm64-v8a/libPitchDetector.so",
+			"toolchain" : "4227372169"
+		}
+	},
+	"toolchains" : 
+	{
+		"4227372169" : 
+		{
+			"cCompilerExecutable" : "C:/Users/korobov2/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/korobov2/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

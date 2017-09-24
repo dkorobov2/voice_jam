@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:10:5-25:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\korobov2\.android\build-cache\ca7bb9d40673e589351053f0803a72bf37bd9109\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\korobov2\.android\build-cache\3c84c5fb6be7821fc9e366e6ad171a186e8fbc1b\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\korobov2\.android\build-cache\cf4c98f27482b14b1beb98862566e20fcf593757\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\korobov2\.android\build-cache\9db271b3496e842f6bdf3d8d7ae2066718bc45dd\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.superpowered.voicejam.MainActivity
+ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:17:13-45
+	android:configChanges
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:18:13-59
+	android:name
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\korobov2\.android\build-cache\ca7bb9d40673e589351053f0803a72bf37bd9109\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\korobov2\.android\build-cache\3c84c5fb6be7821fc9e366e6ad171a186e8fbc1b\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\korobov2\.android\build-cache\cf4c98f27482b14b1beb98862566e20fcf593757\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\korobov2\.android\build-cache\9db271b3496e842f6bdf3d8d7ae2066718bc45dd\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\korobov2\.android\build-cache\ca7bb9d40673e589351053f0803a72bf37bd9109\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\src\main\AndroidManifest.xml

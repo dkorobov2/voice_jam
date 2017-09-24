@@ -1,0 +1,4 @@
+# ninja log v5
+2	88	0	CMakeFiles/PitchDetector.dir/C_/devel/SuperpoweredSDK/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	e960b0b5d90ad2ef
+1	103	0	CMakeFiles/PitchDetector.dir/PitchDetector.cpp.o	10403c126046b8bf
+104	207	0	C:/Users/korobov2/AndroidStudioProjects/VoiceJam/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libPitchDetector.so	68b02056fc4bf82b

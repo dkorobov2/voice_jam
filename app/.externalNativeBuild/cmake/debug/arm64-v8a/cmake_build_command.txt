@@ -1,0 +1,21 @@
+Executable : C:\Users\korobov2\AppData\Local\Android\Sdk\cmake\3.6.3155560\bin\cmake.exe
+arguments : 
+-HC:\Users\korobov2\AndroidStudioProjects\VoiceJam\app\src\main\jni
+-BC:\Users\korobov2\AndroidStudioProjects\VoiceJam\app\.externalNativeBuild\cmake\debug\arm64-v8a
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=C:\Users\korobov2\AppData\Local\Android\Sdk\ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\korobov2\AndroidStudioProjects\VoiceJam\app\build\intermediates\cmake\debug\obj\arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_MAKE_PROGRAM=C:\Users\korobov2\AppData\Local\Android\Sdk\cmake\3.6.3155560\bin\ninja.exe
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\korobov2\AppData\Local\Android\Sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DANDROID_NATIVE_API_LEVEL=21
+-DCMAKE_C_FLAGS=-O3 -fsigned-char
+-DCMAKE_CXX_FLAGS=-fsigned-char -IC:/devel/SuperpoweredSDK/Superpowered
+-DANDROID_PLATFORM=android-16
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_ARM_NEON=TRUE
+-DANDROID_STL=gnustl_static
+-DPATH_TO_SUPERPOWERED:STRING=C:/devel/SuperpoweredSDK/Superpowered
+jvmArgs : 
+

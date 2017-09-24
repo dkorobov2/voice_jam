@@ -1,0 +1,20 @@
+-shared
+-Wl,-soname,libPitchDetector.so
+-o
+"C:\\Users\\korobov2\\AndroidStudioProjects\\Voice Jam\\app\\build\\intermediates\\binaries\\debug\\obj\\x86\\libPitchDetector.so"
+"C:\\Users\\korobov2\\AndroidStudioProjects\\Voice Jam\\app\\build\\intermediates\\objectFiles\\PitchDetectorX86DebugSharedLibraryMainCpp\\9fevulgkciiw3cwmnftedrldu\\PitchDetector.o"
+"C:\\Users\\korobov2\\AndroidStudioProjects\\Voice Jam\\app\\build\\intermediates\\objectFiles\\PitchDetectorX86DebugSharedLibraryMainCpp\\bbw6zwsztip1xa0fis7oi78xb\\SuperpoweredAndroidAudioIO.o"
+C:\\devel\\SuperpoweredSDK\\Superpowered\\libSuperpoweredAndroidx86.a
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+-Wl,--build-id
+-LC:\\Users\\korobov2\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86
+-lgnustl_static
+-no-canonical-prefixes
+-llog
+-landroid
+-lOpenSLES
+-lz
+--sysroot=C:\\Users\\korobov2\\AppData\\Local\\Android\\Sdk\\ndk-bundle/platforms/android-16/arch-x86

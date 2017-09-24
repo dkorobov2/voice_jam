@@ -1,0 +1,3 @@
+C:/Users/korobov2/AndroidStudioProjects/VoiceJam/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/PitchDetector.dir
+C:/Users/korobov2/AndroidStudioProjects/VoiceJam/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+C:/Users/korobov2/AndroidStudioProjects/VoiceJam/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir

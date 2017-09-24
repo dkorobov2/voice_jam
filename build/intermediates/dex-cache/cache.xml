@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\korobov2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_f33d0620137eff1ea04fd31ff2fd2f8891c51452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\korobov2\.android\build-cache\9db271b3496e842f6bdf3d8d7ae2066718bc45dd\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_e4ff78d38ddf92726258edfc4cdace5bd20619a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\korobov2\.android\build-cache\ca7bb9d40673e589351053f0803a72bf37bd9109\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\build\intermediates\pre-dexed\debug\classes_faba95036c0181b1b75c6e5db81b0bc2ec7387f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\korobov2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\korobov2\AndroidStudioProjects\VoiceJam\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_f33d0620137eff1ea04fd31ff2fd2f8891c51452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\korobov2\.android\build-cache\9db271b3496e842f6bdf3d8d7ae2066718bc45dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\build\intermediates\pre-dexed\debug\classes_7bba64a8ff241ad669a3084c958696820bfd6405.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\korobov2\.android\build-cache\3c84c5fb6be7821fc9e366e6ad171a186e8fbc1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\build\intermediates\pre-dexed\debug\classes_094dc7838a269f2491daf33c117e197f1bdfacfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\korobov2\.android\build-cache\cf4c98f27482b14b1beb98862566e20fcf593757\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\korobov2\AndroidStudioProjects\Voice Jam\app\build\intermediates\pre-dexed\debug\classes_0c5c0276e440a9249ca0a6c592bf2adcfab9e610.jar" />
+    </item>
+
+</items>

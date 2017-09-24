@@ -1,0 +1,4 @@
+See file:///C:/Users/korobov2/AndroidStudioProjects/Voice%20Jam/app/build/tmp/compilePitchDetectorArmeabi-v7aDebugSharedLibraryPitchDetectorArmeabi-v7aDebugSharedLibraryMainCpp/output.txt for all output for compilePitchDetectorArmeabi-v7aDebugSharedLibraryPitchDetectorArmeabi-v7aDebugSharedLibraryMainCpp.
+compiling PitchDetector.cpp successful.
+
+Finished compilePitchDetectorArmeabi-v7aDebugSharedLibraryPitchDetectorArmeabi-v7aDebugSharedLibraryMainCpp, see full log file:///C:/Users/korobov2/AndroidStudioProjects/Voice%20Jam/app/build/tmp/compilePitchDetectorArmeabi-v7aDebugSharedLibraryPitchDetectorArmeabi-v7aDebugSharedLibraryMainCpp/output.txt.

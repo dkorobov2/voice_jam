@@ -1,0 +1,4 @@
+See file:///C:/Users/korobov2/AndroidStudioProjects/Voice%20Jam/app/build/tmp/linkPitchDetectorX86DebugSharedLibrary/output.txt for all output for linkPitchDetectorX86DebugSharedLibrary.
+linking libPitchDetector.so successful.
+
+Finished linkPitchDetectorX86DebugSharedLibrary, see full log file:///C:/Users/korobov2/AndroidStudioProjects/Voice%20Jam/app/build/tmp/linkPitchDetectorX86DebugSharedLibrary/output.txt.

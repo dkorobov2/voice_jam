@@ -1,0 +1,4 @@
+See file:///C:/Users/korobov2/AndroidStudioProjects/Voice%20Jam/app/build/tmp/compilePitchDetectorX86DebugSharedLibraryPitchDetectorX86DebugSharedLibraryMainCpp/output.txt for all output for compilePitchDetectorX86DebugSharedLibraryPitchDetectorX86DebugSharedLibraryMainCpp.
+compiling PitchDetector.cpp successful.
+
+Finished compilePitchDetectorX86DebugSharedLibraryPitchDetectorX86DebugSharedLibraryMainCpp, see full log file:///C:/Users/korobov2/AndroidStudioProjects/Voice%20Jam/app/build/tmp/compilePitchDetectorX86DebugSharedLibraryPitchDetectorX86DebugSharedLibraryMainCpp/output.txt.
